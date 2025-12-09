@@ -20,6 +20,4 @@ My SaaS makes the world better:
 
 3. Images
 
-![Screenshot 2025-12-01 at 13.57.36.png](<https://raw.githubusercontent.com/hugity/j5722db5e8r0mk29cjz49vsm6h7wzdm0/refs/heads/main/static/images/Screenshot 2025-12-01 at 13.57.36-1765294923731-g4bymp.png>)
-
 Lord of the rings anyone?
