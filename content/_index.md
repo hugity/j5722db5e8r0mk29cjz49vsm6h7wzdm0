@@ -1,38 +1,25 @@
 ---
-title: "Welcome to Doks"
-description: "Congrats on setting up a new Doks project!"
-date: 2023-09-07T16:33:54+02:00
-lastmod: 2023-09-07T16:33:54+02:00
+title: My SaaS
+description: Making the world better by being a SaaS
+date: 2023-09-07T14:33:54.000Z
+lastmod: 2023-09-07T14:33:54.000Z
 draft: false
 seo:
-  title: "Welcome to Doks" # custom title (optional)
-  description: "" # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+  title: Welcome to Doks
+  description: ""
+  canonical: ""
+  noindex: false
 ---
+## Why choose my SaaS?
 
-## Why Choose Our Documentation?
+My SaaS makes the world better:
 
-Welcome to your new documentation site! Everything is written in simple Markdown, so you can focus on your content.
+1. Lists
 
-### 📝 Easy Content Management
+2. Text
 
-Write your documentation in Markdown format. It's simple, fast, and familiar. No complex syntax to learn.
+3. Images
 
-### 🚀 Fast & Modern
+![Screenshot 2025-12-01 at 13.57.36.png](<https://raw.githubusercontent.com/hugity/j5722db5e8r0mk29cjz49vsm6h7wzdm0/refs/heads/main/static/images/Screenshot 2025-12-01 at 13.57.36-1765294923731-g4bymp.png>)
 
-Built with Hugo for blazing-fast static site generation and optimal performance. Your users will love the speed.
-
-### 🎨 Customizable
-
-Easily customize the look and feel to match your brand using the configuration files. Make it yours.
-
-### 📚 Well Organized
-
-Keep your documentation structured with sections, categories, and an intuitive navigation system.
-
----
-
-## Getting Started
-
-Ready to dive in? Check out our documentation to learn more about how to make the most of this platform.
+Lord of the rings anyone?
